@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25203
     wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29542#The-Valor-of-Cappen-Varra
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-29'
 gutenberg_type: Text
